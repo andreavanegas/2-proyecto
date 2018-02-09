@@ -1,0 +1,57 @@
+article{
+  background-color: black;
+  margin: 60px 80px;
+  width: 990px;
+  height: 1390px;
+}
+
+.green{
+  background-color: green;
+  margin: 10px 30px 20px 40px;
+  width: 900px;
+  height: 600px;
+}
+.red{
+  background-color: red;
+  margin: 0px 10px 20px 60px;
+  width: 850px;
+  height: 300px;
+}
+.blue{
+  background-color: blue;
+  margin: 0px 40px 30px 30px;
+  width: 900px;
+  height: 300px;
+}
+
+/* ** */
+
+article{
+  background-color: red;
+  margin: 60px 80px;
+  width: 990px;
+  height: 1390px;
+}
+
+
+.orange{
+  background-color: orange;
+  margin: 10px 30px 20px 40px;
+  width: 400px;
+  height: 600px;
+}
+.yellow{
+  background-color: yellow;
+  margin: 0px 10px 20px 60px;
+  width: 850px;
+  height: 300px;
+}
+.pink{
+  background-color:pink;
+  margin: 0px 40px 30px 30px;
+  width: 900px;
+  height: 300px;
+}
+
+
+/* ** */
